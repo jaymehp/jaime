@@ -1,0 +1,42 @@
+h1{
+    color: rgb(248, 24, 8);
+    text-align: center;
+    background-color: rgba(14, 11, 11, 0);
+}
+p{
+    color: rgb(55, 0, 255);
+    text-align: center;
+    background-color: rgb(246, 245, 248);
+    font-size: xx-large;
+    
+}    
+#parrafo-1{
+    color: rgb(11, 11, 14);
+    text-align: center;
+    background-color: rgba(246, 247, 243, 0);
+}
+      
+#parrafo-2{
+    color: rgb(15, 12, 12);
+    text-align: center;
+    background-color: hsla(240, 12%, 97%, 0);
+}
+    
+#parrafo-3{
+    color: rgb(12, 14, 12);
+    text-align: center;
+    background-color: hsla(240, 12%, 97%, 0);
+}
+h2{
+
+    color: brown;
+    text-align: center;
+    background-color: rgb(194, 164, 223);
+}
+
+body{
+    background-color: rgba(80, 231, 34, 0.342);
+}
+
+
+
